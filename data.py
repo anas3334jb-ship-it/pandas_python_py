@@ -20,3 +20,5 @@ print(df.head(2))
 print('Last 2 rows of dataframe')
 print(df.tail(2))'''
 print(df.info())
+
+print(df.describe())#it will give the statistical information of the dataframe
