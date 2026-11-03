@@ -22,3 +22,5 @@ print(df.tail(2))'''
 print(df.info())
 
 print(df.describe())#it will give the statistical information of the dataframe
+
+print(f'shape :{df.shape}')
